@@ -1,0 +1,59 @@
+body{
+   margin: 0; 
+}
+.col-xs{
+    
+    float: left;
+    position: relative;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 29%;
+}
+
+.col-sm{
+   
+   float: left;
+   width: 25%; 
+   position: relative;
+   min-height: 1px;
+   padding-right: 10px;
+   padding-left: 10px;
+}
+.header{
+   background-color: darkgray;
+   
+}
+.header h2{
+    text-align: center;
+    color: wheat;
+}
+.chicken{
+    border: 3px black groove;
+    margin: 10px;
+    background-color:yellow; 
+}
+.chicken h2{
+    border: 3px black groove;
+    text-align: center;
+    background-color: pink;
+}
+.beef{
+    border: 3px black groove;
+    margin: 10px;
+    background-color: darkkhaki;
+}
+.beef h2{
+    border: 3px black groove;
+    text-align: center;
+    background-color: darkred;
+}
+.sushi{
+    border: 3px black groove;
+    margin: 10px;
+    background-color: rosybrown;
+}
+.sushi h2{
+    border: 3px black groove;
+    text-align: center;
+    background-color: yellow;
+}
